@@ -20,5 +20,5 @@
     "material_theme_small_tab": true,
     "tab_size": 2,
     "theme": "OneDarkMaterial.sublime-theme",
-    "word_wrap": "false",
+    "word_wrap": "true",
 }

@@ -1,6 +1,6 @@
 [
-	{ "keys": ["ctrl+alt+f"], "command": "reindent" },
-	{
+  { "keys": ["ctrl+alt+f"], "command": "reindent" },
+  {
   "keys": ["tab"], 
   "command": "expand_abbreviation_by_tab", 
 
@@ -45,5 +45,7 @@
       "key": "is_abbreviation"
     }
   ]
-}
+},
+{"keys": ["f10"], "command": "xdebug_continue", "args": {"command": "step_over"}},
+{"keys": ["f11"], "command": "xdebug_continue", "args": {"command": "step_out"}}
 ]
